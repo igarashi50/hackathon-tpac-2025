@@ -1,0 +1,51 @@
+﻿Group,Name
+Accessibility Guidelines Working Group,"Aashutosh K, Adam Page, Alain Vagner, Andy Manea, Ashley Firth, Audrey Maniez, Azlan Cuttilan, Bram Janssens, Bruce Bailey, Cybele Sack, David Fazio, David MacDonald, Detlev Fischer, Dj Chase, Duff Johnson, E.a. Draffan, Frankie Wolf, Gareth Slinn, Gert-Jan Vercauteren, Gleidson Ramos, Graham Ritchie, Gregg Vanderheiden, Helen Burge, Jake Abma, Jamie Herrera, Jan McSorley, Janina Sajka, Jennifer Delisi, Joe Humbert, John Kirkwood, John Rochford, Jon Gibbins, Julian Kittelson-Aldred, Karla Rubiano, Kathy Eng, Kimberly Patch, Laura Carlson, Laura Miller, Lisa Seeman-Horwitz, Makoto Ueki, Melanie Philipp, Mike Beganyi, Mike Gifford, Mike Pluke, Phil Day, Poornima Badhan Subramanian, Rachele DiTullio, Radostina (Ina) Tsvetkova, Raja Kushalnagar, Rashmi Katakwar, Rebecca Monteleone, Rob Whitaker, Roberto Scano, Sam Ogami, Sarah Horton, Shawn Thompson, Steven Hoober, Tiffany Burtin, Tim Gravemaker, Todd Libby, Victoria Clark, Wendy Reid"
+Accessible Platform Architectures Working Group,"Angela Barker, Annalu Waller, Becky Gibson, Brigitte Thomas, Chiara Cerretti, Cleyra Uzcategui, Dariusz Drezno, David Fazio, Deborah Dahl, Dylan Fox, Eric Hind, Fredrik Fischer, Gottfried Zimmermann, Irfan Ali, Jake Abma, Janina Sajka, Jason White, Jeff Kline, Jennifer Strickland, Jennifer X Zhang, John Foliot, Joshue O'Connor, Keith (Dr. Keith) Newton, Leandro S. Guedes, Lisa Seeman-Horwitz, Mark Miller, Meryl Evans, Mike Beganyi, Nadine Auer, Neha Jadhav, Neil Soiffer, Niklas Egger, Paul Grenier, Raja Kushalnagar, Russell Galvin, Sam Kanta, Sheri Byrne-Haber, Stacey Swinehart Ganderson, Susana Pallero, Todd Libby"
+Accessible Rich Internet Applications Working Group,"Adam Page, Adrian Roselli, Betsy Fanning, Bryan Garaventa, Cynthia Shelly, Duff Johnson, Lola Odelola, Paul Rayius, Peter Krautzberger, William Kilian, Zachary Kinsey, Zoë Bijl"
+Audio Working Group,Christoph Guttandin
+Browser Testing and Tools Working Group,"Christian Bromann, David Burns, Diego Molina, Krzysztof Modras, Wilhelm Joys Andersen"
+Cascading Style Sheets (CSS) Working Group,"Brad Kemper, Brian Birtles, Cassondra Roberts, Dael Jackson, Florian Rivoal, François Remy, Guillaume Lebas, Jonathan Neal, Lea Verou, Miriam Suzanne, Paul Grenier, Peter Linss, Romain Menke, Samuel Weinig, Sebastian Zartner, Vladimir Levantovsky"
+Data Shapes Working Group,"Ashley Sommer, Daniël Beeke, Kurt Cagle, Livio Robaldo, Matt Goldberg, Ognjen Savkovic, Scott Henninger"
+Dataset Exchange Working Group,"Alejandra Gonzalez Beltran, Andrea Perego, Caroline Burle, David Browning, Fatma Chamekh, Lars G. Svensson, Pavlina Fragkou, Peter Winstanley, Riccardo Albertoni"
+Decentralized Identifier Working Group,"Benjamin Goering, Charles Lehner, Christopher Allen, Daniel Burnett, Daniel Hardman, Dmitri Zagidulin, Drummond Reed, Gabe Cohen, Kaliya Young, Kim Duffy, Otto Mora, Shaun Conway, Stephen Curran"
+Devices and Sensors Working Group,"Christine Perey, Lars Knudsen, Lukasz Olejnik, Maryam Mehrnezhad, Rick Waldron"
+Distributed Tracing Working Group,Bastian Krol
+Exploration Interest Group,Sarven Capadisli
+Federated Identity Working Group,"Anthony Nadalin, George Fletcher, Joseph Heenan, Lluís Alfons Ariño Martin, Michael Jones, Monty Wiseman, Paolo De Rosa, Phil Smart, Wendy Seltzer"
+GPU for the Web Working Group,"Connor Fitzgerald, Kelsey Gilbert, Lee Mighdoll, Mathis Brossier, Mehmet Oguz Derin, Stefan Brandmair, Xiaoshen X"
+HTML Working Group,Florian Rivoal
+Immersive Web Working Group,"Ayşegül Yönet, Christine Perey, Kieran Farr, Leonard Daly"
+Internationalization Working Group,"Addison Phillips, Andrew Cunningham, Andy Manea, Bobby Tung, David Clarke, Florian Rivoal, François Yergeau, Joel Sahleen, John Klensin, Martin Dürst, Matitiahu Allouche, Tatsuo Kobayashi, Toshi Kobayashi, Yasuo Kida, Zhaoyi Shen"
+JSON-LD Working Group,"Anatoly Scherbakov, Victor Lu"
+Linked Web Storage Working Group,"Chris Johnson, Dan Brickley, Dmitri Zagidulin, Eric Prud'hommeaux, Hadrian Zbarcea, Jackson Morgan, Jacopo Scazzosi, Matthieu Bosquet, Steven De Costa"
+Math Working Group,"David Carlisle, David Farmer, Dennis Müller, Deyan Ginev, Louis Maher, Murray Sargent, Neil Soiffer, Patrick D F Ion, Paul Libbrecht, Sam Dooley, Stephen Watt"
+Media and Entertainment Interest Group,"Andreas Tai, Christopher Lorenzo, John Simmons, Mark Vickers"
+MiniApps Working Group,Yuqing Yang
+Patents and Standards Interest Group,Florian Rivoal
+Portable Network Graphics (PNG) Working Group,"Chris Blume, Cosmin Truta"
+Privacy Working Group,"Bhavani Shankar Garikapati, Christine Runnegar, Don Marti, Joey Stanford, Justin Brookman, Lei Mu, Lola Odelola, Michael Markevich, Motunrayo Adebayo, Rob van Eijk, Samuel Weiler, Sebastian Zimmeck, Serge Egelman, Ted Hardie"
+Private Advertising Technology Working Group,"Arthur Coleman, Brian May, David Dabbs, Garrett Johnson, Roxana Geambasu, Sean Turner"
+Publishing Maintenance Working Group,"Abe Jellinek, Brady Duga, Dale Rogers, Eric Hellman, Laura Brady, Madeleine Rothberg, Milena Risi, Susan Neuhaus, Wendy Reid"
+RDF & SPARQL Working Group,"Dominik Tomaszuk, Dörthe Arndt, Enrico Franconi, Kurt Cagle, Olaf Hartig, Peter Patel-Schneider, Sarven Capadisli, Thomas Pellissier Tanon, William Van Woensel"
+RDF Dataset Canonicalization and Hash Working Group,"Dan Yamamoto, Kazue Sako, Sebastian Crane"
+SVG Working Group,Tavmjong Bah
+Second Screen Working Group,"Michiel De Backker, Pavlo Buidenkov"
+Security Interest Group,"Alberto Fernandez-de-Retana, Amir Sharif, Eugenio Kim Cerra, Giovanni Corti, Greg Bernstein, Michele Orru, Sebastian Crane, Thomas Jones, Veronica Cristiano, Xu Lin, Zahra Ebadi Ansaroudi"
+Spatio-temporal Data on the Web Working Group,"Christine Perey, Katharina Schleidt, Luís de Sousa, Rob Smith, Robert Warren, Sylvain Grellet"
+Sustainable Web Interest Group,"Adam Newman, Alexander Dawson, Alisa Bonsignore, Andrew Wright, Anne Faubry, Beau Morgan Murrah, Chris Adams, Crystal Preston-Watson, Denis Didier, Fershad Irani, Francesco Fullone, François Burra, Gael Duez, Hannah Smith, Ines Akrap, James Christie, Jennifer Strickland, Laurent Devernay Satyagraha, Mike Gifford, Nahuai Badiola, Neil Clark, Nick Lewis, Nicola Bonotto, Oliver Winks, Rose Newell, Ryan Sholin, Sarven Capadisli, Shane Herath, Siddhesh Wagle, Sorca Duffy, Susannah Hill, Thorsten Jonas, Tim Cowlishaw, Tim Frick, Tristan Nitot, Łukasz Mastalerz"
+Timed Text Working Group,"Andreas Tai, Gary Katsevman, Glenn Adams, John Birch, Matt Simpson, Mike Dolan, Silvia Pfeiffer"
+Verifiable Credentials Working Group,"Brian Richter, Bruno Vavala, Christopher Allen, David Chadwick, Dmitri Zagidulin, Elaine Wooton, Gabe Cohen, Greg Bernstein, Kaliya Young, Michael Jones, Paolo De Rosa, Patrick St-Louis, Poh Hendry, Samuel Smith, Savita Farooqui, Sebastian Crane"
+Web Application Security Working Group,"Giorgio Maone, Rob van Eijk"
+Web Applications Working Group,"Ben Francis, Mikhail Barash, Nolan Lawson, Steffen Larssen, Travis Leithead"
+Web Authentication Working Group,"Andre Büttner, Anthony Nadalin, James Barclay, Ki-Eun Shin, Michael Jones, Monty Wiseman, Nishant Kaushik, William Brown, Yuriy Ackermann"
+Web Editing Working Group,"Andreas Kling, Johannes Wilm, Tomasz Jakut"
+Web Fonts Working Group,"Bianca Berning, Jason Pamental, John Hudson, Vladimir Levantovsky"
+Web Machine Learning Working Group,"Dr. Humera Noor Minhas, Philip Laszkowicz, Rachel Yager, Tianqi Chen, Umar Iqbal, Wenhe Li, Zoltan Kis"
+Web Payment Security Interest Group,"Adrian Hope-Bailie, Nick Telford-Reed"
+Web Payments Working Group,"Arman Aygen, David Benoit, Jinho Bang, Lukasz Olejnik, Nick Telford-Reed"
+Web Performance Working Group,"Abin Paul, Dan Shappir, Michelle Vu, Peter Perlepes, Tim Kadlec"
+Web Real-Time Communications Working Group,Lennart Grahl
+Web of Things Interest Group,"Charith Perera, Michael Koster, Michael McCool"
+Web of Things Working Group,"Ben Francis, Charith Perera, Christine Perey, Cristiano Aguzzi, Farshid Tavakolizadeh, Jan Romann, Konstantinos Kotis, Luca Barbato, Mahmood Afshari, Michael Koster, Michael McCool, Philipp-Alexander Blum"
+Web-based Digital Twins for Smart Cities Interest Group,"Kazuyuki Ashimura, Michael Koster, Torbjörn Lahrin"
+WebAssembly Working Group,"Andreas Rossberg, Conrad Watt"
