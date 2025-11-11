@@ -1,9 +1,14 @@
 "# hackathon-tpac-2025"
 
-This repo is my submission to the challenge #2. Please see about the W3C hackathon TPAC 2025.
+This repo is my submission to the challenge #2. 
 
-\[W3C Invited experts per grooup](https://igarashi50.github.io/hackathon-tpac-2025/w3c\_ie\_per\_group\_as\_of\_nov\_11\_2025.html)
 
+
+\[W3C Invited experts per group](https://igarashi50.github.io/hackathon-tpac-2025/)
+
+
+
+Please see about the W3C hackathon TPAC 2025.
 
 https://www.w3.org/2025/11/TPAC/hackathon/
 
